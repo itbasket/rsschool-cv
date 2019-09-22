@@ -10,6 +10,6 @@ Self-education, completed Loftschool frontend courses
 * JavaScript
 * jQuery
 * Git
-* Gulp
+* Gulp 
 ## English:
 Intermediate level
