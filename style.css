@@ -1,0 +1,15 @@
+﻿.wrapper {
+    margin: 0 auto;
+    width: 500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f8ff96;
+}
+
+h1 {
+    text-align: center;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+}
